@@ -1,0 +1,51 @@
+name: comp545_rag
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  # --- Core Python ---
+  - python=3.10
+
+  # --- PyTorch + CUDA ---
+  - pytorch=2.1
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
+
+  # --- Standard tools ---
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - networkx
+  - jupyterlab
+
+  # --- PDF parsing ---
+  - pypdf2
+  - pip:
+      # pip section for packages only available on pip
+      - pdfplumber
+
+      # --- Transformers & LLM tools ---
+      - transformers==4.40.1
+      - accelerate==0.28.0
+      - sentence-transformers==2.6.1
+      - bitsandbytes==0.42.0
+
+      # --- LangChain & vector store ---
+      - langchain==0.1.14
+      - chromadb==0.4.24
+
+      # --- Utility ---
+      - einops
+      - tiktoken
+
+      # --- Hugging Face Hub ---
+      - huggingface_hub
+
+      # --- Optional but recommended ---
+      - matplotlib
+      - seaborn
