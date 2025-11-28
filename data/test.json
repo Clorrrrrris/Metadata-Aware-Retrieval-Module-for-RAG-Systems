@@ -1,0 +1,258 @@
+[
+    {
+        "id": "q1",
+        "chapter": 1,
+        "question": "Who is seen as the father of behaviorism within psychology?",
+        "answer": "John B. Watson",
+        "relevant_pages": [13],
+        "relevant_sections": "1.2 History of Psychology"
+    },
+    {
+        "id": "q2",
+        "chapter": 1,
+        "question": "What area of psychology receives the most attention in popular media?",
+        "answer": "Clinical Psychology",
+        "relevant_pages": [26],
+        "relevant_sections": "1.3 Contemporary Psychology"
+    },
+    {
+        "id": "q3",
+        "chapter": 2,
+        "question": "What is the difference between Deductive and Inductive Reasoning",
+        "answer": "For Deductive Reasoning, ideas are tested in the real world; In Inductive Reasoning, real-world observations lead to new ideas",
+        "relevant_pages": [39],
+        "relevant_sections": "2.1 Why is Research Important?"
+    },
+    {
+        "id": "q4",
+        "chapter": 2,
+        "question": "What is an example of positive correlation?",
+        "answer": "1. Ice cream and crime rates; 2. An individual's height and weight; 3. A person's age and number of wrinkles",
+        "relevant_pages": [49],
+        "relevant_sections": "2.3 Analyzing Findings"
+    },
+    {
+        "id": "q5",
+        "chapter": 3,
+        "question": "What are Psychotropic Medications?",
+        "answer": "Drugs that treat psychiatric symptoms by restoring neurotransmitter balance",
+        "relevant_pages": [83],
+        "relevant_sections": "3.2 Cells of the Nervous System"
+    },
+    {
+        "id": "q6",
+        "chapter": 3,
+        "question": "How many lobes does the brain have and what are their names?",
+        "answer": "Four. Frontal, Temporal, Parietal, Occipital.",
+        "relevant_pages": [89],
+        "relevant_sections": "3.4 The Brain and Spinal Cord"
+    },
+    {
+        "id": "q7",
+        "chapter": 4,
+        "question": "What study provided empirical support to Rosalind Cartwright's belief that dreams simply reflect life events that are important to the dreamer?",
+        "answer": "The study in which women going through divorce were asked several times over a five month period to report the degree to which their former spouses were on their minds. These same women were awakened during REM sleep in order to provide a detailed account of their dream content. There was a significant positive correlation between the degree to which women thought about their former spouses during waking hours and the number of times their former spouses appeared as characters in their dreams ",
+        "relevant_pages": [120],
+        "relevant_sections": "4.3 Stages of Sleep"
+    },
+    {
+        "id": "q8",
+        "chapter": 4,
+        "question": "What is the other word for sleepwalking",
+        "answer": "Somnambulism",
+        "relevant_pages": [122],
+        "relevant_sections": "4.4 Sleep Problems and Disorders"
+    },
+    {
+        "id": "q9",
+        "chapter": 5,
+        "question": "What are subliminal messages?",
+        "answer": "A stimulus reaches a physiological threshold when it is strong enough to excite sensory receptors and send nerve impulses to the brain: This is an absolute threshold. A message below that threshold is said to be subliminal: We receive it, but we are not consciously aware of it.",
+        "relevant_pages": [146],
+        "relevant_sections": "5.1 Sensation versus Perception"
+    },
+    {
+        "id": "q10",
+        "chapter": 5,
+        "question": "What is the difference between congenital deafness and conductive hearing loss?",
+        "answer": "Congenital Deafness is when someone is born without hearing; Conductive Hearing Loss is due to a problem delivering sound energy to the cochlea",
+        "relevant_pages": [163],
+        "relevant_sections": "5.4 Hearing"
+    },
+    {
+        "id": "q11",
+        "chapter": 6,
+        "question": "In Pavlov's Expriment, what are the terms used for the meat powder and the dog's salivation within classical condtioning?",
+        "answer": "The meat powder is unconditioned stimulus (UCS) and the dog's saliva is an uncoditioned response (UCR)",
+        "relevant_pages": [184],
+        "relevant_sections": "6.2 Classical Condtioning"
+    },
+    {
+        "id": "q12",
+        "chapter": 6,
+        "question": "What is a variable interval reinforcement schedule and its result?",
+        "answer": "Reinforcement that is delivered at unpredictable time intervals and results in a moderate yet steady response rate",
+        "relevant_pages": [199],
+        "relevant_sections": "6.3 Operant Conditioning"
+    },
+    {
+        "id": "q13",
+        "chapter": 7,
+        "question": "What is Crystallized intelligence?",
+        "answer": "Crystallized intelligence is characterized as acquired knowledge and the ability to retrieve it. When you learn, remember, and recall information, you are using crystallized intelligence.",
+        "relevant_pages": [228],
+        "relevant_sections": "7.4 What Are Intelligence and Creativity?"
+    },
+    {
+        "id": "q14",
+        "chapter": 7,
+        "question": "What is the difference between Dysgraphia and Dyslexia?",
+        "answer": "Dysgraphia is a learning disability that results in a struggle to write legibly; Dyslexia is an inability to correctly process letters",
+        "relevant_pages": [239],
+        "relevant_sections": "7.6 The Source of Intelligence"
+    },
+    {
+        "id": "q15",
+        "chapter": 8,
+        "question": "What is the term called that moves information from Short-term memory to Long-term memory?",
+        "answer": "Rehearsal",
+        "relevant_pages": [251],
+        "relevant_sections": "8.1 How Memory Functions"
+    },
+    {
+        "id": "q16",
+        "chapter": 8,
+        "question": "What is the Misinformation Effect Paradigm developed by Elizabeth Loftus?",
+        "answer": "The Misinformation Effect Paradigm holds that after exposure to additional and possibly inaccurate information, a person may misremember the original event",
+        "relevant_pages": [262],
+        "relevant_sections": "8.3 Problems with Memory"
+    },
+    {
+        "id": "q17",
+        "chapter": 9,
+        "question": "In Erikson's Psychological Stages of Development, provide the age, task and description of the 6th stage",
+        "answer": "Age: 19-29, Task: Intimacy vs. Isolation, Description: Establish intimacy and relationships with others",
+        "relevant_pages": [287],
+        "relevant_sections": "9.2 Lifespan Theories"
+    },
+    {
+        "id": "q18",
+        "chapter": 9,
+        "question": "Why are individuals with religious or spiritual beliefs better at coping with death?",
+        "answer": "Because of their hope in the afterlife and because of social support from religious or spiritual associations",
+        "relevant_pages": [314],
+        "relevant_sections": "9.4 Death and Dying"
+    },
+    {
+        "id": "q19",
+        "chapter": 10,
+        "question": "What is Prader-Willi Syndrome?",
+        "answer": "Prader-Willi Syndrome is a genetic disorder that results in persistent feelings of intense hunger and reduced rates of metabolism",
+        "relevant_pages": [331],
+        "relevant_sections": "10.2 Hunger and Eating"
+    },
+    {
+        "id": "q20",
+        "chapter": 10,
+        "question": "What is the difference between the James-Lange Theory and the Cannon-Bard Theory?",
+        "answer": "The James-Lange Theory dictates that experiencing a feeling of fear (emotion) happens after physiological arousal, while the Cannon-Bard Theory dictates that an emotional experience and phsyiological arousal occur simultaneously yet independently",
+        "relevant_pages": [344,345],
+        "relevant_sections": "10.4 Emotion"
+    },
+    {
+        "id": "q21",
+        "chapter": 11,
+        "question": "Give me 3 examples of Neo-Freudian Theorists.",
+        "answer": "Alfred Adler, Erik Erikson, Carl Jung, and Karen Horney",
+        "relevant_pages": [368,369,370,371,372,373],
+        "relevant_sections": "10.3 Neo-Freudians: Adler, Erikson, Jung, and Horney"
+    },
+    {
+        "id": "q22",
+        "chapter": 11,
+        "question": "What is the most popular theory in personality psychology today?",
+        "answer": "The Five Factor Model.",
+        "relevant_pages": [382],
+        "relevant_sections": "10.7 Trait Theorists"
+    },
+    {
+        "id": "q23",
+        "chapter": 12,
+        "question": "Believing that smoking is bad for your health but continuing to smoke is an example of what psychological attitude?",
+        "answer": "Cognitive Dissonance",
+        "relevant_pages": [410],
+        "relevant_sections": "12.3 Attitudes and Persuasion"
+    },
+    {
+        "id": "q24",
+        "chapter": 12,
+        "question": "What is conformity?",
+        "answer": "Conformity is the change in a person's behavior to go along with the group, even if he does not agree with the group.",
+        "relevant_pages": [416],
+        "relevant_sections": "12.4 Conformity, Compliance, and Obedience"
+    },
+    {
+        "id": "q25",
+        "chapter": 13,
+        "question": "What are the three sources identified by Greenhaus and Beutell of work-family conflicts?",
+        "answer": "1. Time devoted to work makes it difficult to fulfill requirements of family, or vice versa, 2. Strain from participation in work makes it difficult to fulfill requirements of family, or vice versa, 3. Specific behaviors required by work make it difficult to fulfill the requirements of family, or vice versa",
+        "relevant_pages": [470],
+        "relevant_sections": "13.3 Organizational Psychology: The Social Dimension of Work"
+    },
+    {
+        "id": "q26",
+        "chapter": 13,
+        "question": "What did Bruno & Abrahao in 2012 research in human factors psychology?",
+        "answer": "they examined the impact of the volume of operator decisions on the accuracy of decisions made within an information security center at a banking institution in Brazil",
+        "relevant_pages": [479],
+        "relevant_sections": "13.4 Human Factors Psychology and Workplace Design"
+    },
+    {
+        "id": "q27",
+        "chapter": 14,
+        "question": "What is the difference between Type A and Type B individuals according to Friedman and Rosenman?",
+        "answer": "Type A individuals are driven workaholics who worry about deadlines and always seem to be in a rush. Type B individuals are relaxed and more laid-back. Type A individuals were 7 times more likely to have heart disease.",
+        "relevant_pages": [508],
+        "relevant_sections": "14.3 Stress and Illness"
+    },
+    {
+        "id": "q28",
+        "chapter": 14,
+        "question": "What is biofeedback?",
+        "answer": "Biofeedback is a technique that uses electronic equipment to accurately measure a person's neuromuscular and autonomic activity—feedback is provided in the form of visual or auditory signals.",
+        "relevant_pages": [520],
+        "relevant_sections": "14.4 Regulation of Stress"
+    },
+    {
+        "id": "q29",
+        "chapter": 15,
+        "question": "What is the most used classification system by mental health professionals in the United States?",
+        "answer": "The Diagnostic and Statistical Manual of Mental Disorders (DSM-5)",
+        "relevant_pages": [542],
+        "relevant_sections": "15.2 Diagnosing and Classifying Psychological Disorders"
+    },
+    {
+        "id": "q30",
+        "chapter": 15,
+        "question": "Having unwanted obsessions and frequent doubts like 'Did I turn the water off?' is caused by which disorder?",
+        "answer": "Obsessive-Compulsive Disorder (OCD)",
+        "relevant_pages": [554,555],
+        "relevant_sections": "15.5 Obsessive-Compulsive and Related Disorders"
+    },
+    {
+        "id": "q31",
+        "chapter": 16,
+        "question": "According to the Substance Abuse and Mental Health Services Administration (SAMHSA) in 2017, what percent of adults received treatment for a mental health disorder?",
+        "answer": "14.8%",
+        "relevant_pages": [600],
+        "relevant_sections": "16.1 Mental Health Treatment: Past and Present"
+    },
+    {
+        "id": "q32",
+        "chapter": 16,
+        "question": "What is a comorbid disorder?",
+        "answer": "In individual having 2 or more diagnoses of disorders.",
+        "relevant_pages": [623],
+        "relevant_sections": "16.5 The Sociocultural Model and Therapy Utilization"
+    }
+]
