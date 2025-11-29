@@ -1,0 +1,72 @@
+[
+    {
+        "id": "q1",
+        "chapter": 1,
+        "question": "What is psychology?",
+        "relevant_pages": [30],
+        "relevant_sections": "1.1 What Is Psychology"
+    },
+    {
+        "id": "q2",
+        "chapter": 1,
+        "question": "What is the history of psychology?",
+        "relevant_pages": [30, 31],
+        "relevant_sections": "1.2 History of Psychology"
+    },
+    {
+        "id": "q3",
+        "chapter": 1,
+        "question": "Provide a comprehensive summary of Chapter 1, covering the definition of psychology, its historical foundations, major schools of thought, and the scope of contemporary subfields.",
+        "relevant_pages": [30, 31, 32],
+        "relevant_sections": "1.1 What Is Psychology; 1.2 History of Psychology; 1.3 Contemporary Psychology"
+    },
+    {
+        "id": "q4",
+        "chapter": 6,
+        "question": "Provide an integrated summary of learning theories including classical conditioning, operant conditioning, observational learning, cognition in learning, and behavioral applications.",
+        "relevant_pages": [180, 181, 182, 183, 184, 185, 186, 187, 188],
+        "relevant_sections": "6.1 What is Learning?; 6.2 Classical Conditioning; 6.3 Operant Conditioning; 6.4 Observational Learning(Modeling)"
+    },
+   {
+        "id": "q5",
+        "chapter": 5,
+        "question": "Summarize the major theories and stages of human development across the lifespan from infancy to adulthood.",
+        "relevant_pages": [130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143],
+        "relevant_sections": "5.1 Sensation versus Perception; 5.2 Waves and Waveguide; 5.3 Vision; 5.4 Hearing; 5.5 The Other Senses"
+    },
+    {
+        "id": "q6",
+        "chapter": 11,
+        "question": "Summarize the Neo-Freudian theories.",
+        "relevant_pages": [391, 392],
+        "relevant_sections": "11.3 Neo-Freudians"
+    },
+    {
+        "id": "q110",
+        "chapter": 10,
+        "question": "Describe the full motivational and emotional systems discussed in Chapter 10, including physiological, cognitive, and social influences on motivation and emotion.",
+        "relevant_pages": [350, 351, 352, 353, 354, 355, 356, 357, 358],
+        "relevant_sections": "10.1 Motivation; 10.2 Hunger and Eating; 10.3 Sexual Behavior; 10.4 Emotion"
+    },
+    {
+        "id": "q8",
+        "chapter": 11,
+        "question": "Summarize the humanistic theories of personality.",
+        "relevant_pages": [392],
+        "relevant_sections": "11.5 Humanistic Approaches"
+    },
+    {
+        "id": "q9",
+        "chapter": 11,
+        "question": "How do biological factors influence personality?",
+        "relevant_pages": [392],
+        "relevant_sections": "11.6 Biological Approaches"
+    },
+    {
+        "id": "q10",
+        "chapter": 11,
+        "question": "What is the Five-Factor Model of personality?",
+        "relevant_pages": [392, 393],
+        "relevant_sections": "11.7 Trait Theorists"
+    }
+]
