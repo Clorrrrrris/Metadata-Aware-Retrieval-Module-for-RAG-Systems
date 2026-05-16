@@ -56,16 +56,3 @@ The project was evaluated on the OpenStax Psychology 2e textbook using both fine
 
 - Wrote the Abstract, Introduction, Data, and Methodology sections
 
-## Repository Structure
-
-```text
-
-data/           # Processed textbook and evaluation data
-
-retrieval/      # Retrieval and graph expansion modules
-
-evaluation/     # Benchmarking and evaluation scripts
-
-notebooks/      # Experiment notebooks
-
-report/         # Final project report
